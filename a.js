@@ -1,5 +1,5 @@
-var a = 5
-
-for(i=0;i<a;i++){
-    console.log(i+1)
+function ans(k){
+    console.log("a")
 }
+
+k("qw")
